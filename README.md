@@ -1,7 +1,3 @@
-# Data Analysis with Python Course
-
-Welcome to the repository for the code related to the course on Data Analysis with Python! Below is an outline of the topics covered in the course.
-
 ## Chapter 1: DataFrames
 
 ### Sorting and Subsetting
